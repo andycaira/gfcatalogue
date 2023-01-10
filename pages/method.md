@@ -15,7 +15,7 @@ Over the course of our research on this project, we uncovered an enormous amount
 
 ### Organization of the Catalogue Entries
 
-Catalogue Number 
+Catalogue Number  
 Title  
 Date  
 Medium  
