@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+title:            'Griffin Fisher Catalogue Raisonné'
+description:      'Example Description'
+url:              'https://andycaira.github.io'
+baseurl:          '/gfcatalogue'
+copyright:        'Griffin Fisher Estate, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  collection: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'test2.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/collection' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +85,16 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      collection:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - material
+          - support
           - label
           - _date
-          - object_type
-          - current_location
+          - provenance
+          - theme
+          - classification
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -103,26 +104,27 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: 'Catalogue'
+    link: '/collection/'
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'About the Artist'
         link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
+      - label: 'Catalogue Methodology'
+        link: '/method/'
+      - label: 'Acknowledgement'
+        link: '/thanks/'
+      - label: 'Terms of Use'
+        link: '/terms/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,12 +133,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+    - label: 'About'
+      link: '/about'
     - label: 'Credits'
-      link: '/credits'
+      link: '/thanks'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: '/contact'
   logos:
     - img: '/img/logo.png'
 
