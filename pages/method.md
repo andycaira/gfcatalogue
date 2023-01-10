@@ -1,8 +1,8 @@
---
+---
 layout: page
 title: Catalogue Methodology
 permalink: /method/
---
+---
 **What Is Included**
 
 The current installment of the Griffin Fisher Catalogue Raisonné presents just over [TK] documented works known to be by the artist and dating from 2017 through August 2022, the date of the artist’s death. It includes [TK] paintings, [TK] drawings, [TK] prints, [TK] sculptures, and [TK]. The absence of a work from this first installment does not necessarily mean that such work was not created by Griffin Fisher.
