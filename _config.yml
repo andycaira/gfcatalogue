@@ -18,8 +18,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:           | 'Griffin Fisher'/n 
-                    'Catalogue Raisonné'
+title:            |
+                     |'Griffin Fisher' 
+                     |'Catalogue Raisonné'
 description:      'Example Description'
 url:              'https://andycaira.github.io'
 baseurl:          '/gfcatalogue'
