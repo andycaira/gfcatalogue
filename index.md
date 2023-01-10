@@ -8,9 +8,16 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+The catalogue raisonné of Griffin Fisher includes all of the known paintings, sculptures, prints, and other works created by the artist. 
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+The artworks in this catalogue are organized chronologically.  Each artwork has been assigned a catalogue number based on its year of production.  Each object type is classified by general medium before assigning it a number.
+
+Each artwork has its own page, or record, which includes the work's principal information and, when possible, an image that can be enlarged.  Many entries include commentaries and supplementary materials, such as related drawings by Fisher, documentary photographs, reference images, and other relevant information.
+
+Fisher did not provide titles for the majority of their art works.  Accordingly, the titles listed in this catalogue raisonné follow those provided by the estate's inventory whenever possible. Posthumously titled works are labelled where applicable. 
+
+This project was made using [Wax](https://minicomp.github.io/wiki/#/wax/).
+
 
 ### Browse the Collection
 
