@@ -257,8 +257,8 @@ content section
 .wax-inline-container {
   @extend .container;
 
-  margin: 0 auto;
-  max-width: fit-content;
+  margin: 0 5%;
+  max-width: 100%;
   width: $max-width;
   overflow: flex-wrap;
 }
