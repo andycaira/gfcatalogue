@@ -260,21 +260,21 @@ content section
   @extend .container;
 
   margin: inherit;
-  max-width: 100%;
-  width: $max-width;
+  max-width: 90%;
+//  width: $max-width;
   overflow: flex-wrap;
 }
-
+/*
 .full-width {
   width: 100vw;
- /* position: relative;
+  position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  margin-bottom: $more-margin; */
+  margin-bottom: $more-margin; 
 }
-
+*/
 .wax-parallax.inline-parallax {
   margin-top: $more-margin;
 }
