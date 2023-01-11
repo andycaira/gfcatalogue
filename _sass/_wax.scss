@@ -56,7 +56,7 @@ header & nav bar
   z-index: 100000;
   padding: $margin;
   letter-spacing: 0.075rem;
-  margin: 0 1.5rem;
+  margin: 0;
 
   .navbar-brand {
     font-weight: 400;
@@ -110,6 +110,7 @@ content section
   max-width: 100%;
   padding-top: $margin;
   padding-bottom: 5rem;
+  margin: auto;
 
   h1, h2, h3, h4, h5, h5 {
     margin-bottom: $less-margin;
@@ -266,12 +267,12 @@ content section
 
 .full-width {
   width: 100vw;
-  position: relative;
+ /* position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  margin-bottom: $more-margin;
+  margin-bottom: $more-margin; */
 }
 
 .wax-parallax.inline-parallax {
