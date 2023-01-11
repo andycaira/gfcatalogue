@@ -4,7 +4,7 @@
   {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
 {% endif %}
 
-<div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width'>
+<div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width' style="margin:auto;">
   <div class='wax-inline-container'>
     <div id="{{ include.collection }}-facet-buttons" class="facet-buttons"></div>
     <div id="wax-gallery-{{ include.collection }}" class="wax-gallery"></div>
