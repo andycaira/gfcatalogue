@@ -18,6 +18,6 @@ Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Mo
 
 At varius vel pharetra vel turpis nunc eget lorem dolor. Tellus mauris a diam maecenas sed enim. Dui faucibus in ornare quam viverra orci sagittis eu volutpat. Id cursus metus aliquam eleifend mi in nulla posuere. Purus gravida quis blandit turpis. Tellus cras adipiscing enim eu turpis egestas. Morbi enim nunc faucibus a pellentesque sit amet porttitor. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Iaculis eu non diam phasellus vestibulum lorem sed risus. At volutpat diam ut venenatis tellus in metus vulputate. Cras semper auctor neque vitae. Lacus vestibulum sed arcu non odio euismod lacinia at. Habitant morbi tristique senectus et. Ut consequat semper viverra nam libero justo. Quam id leo in vitae. Diam maecenas ultricies mi eget mauris pharetra et. Aenean et tortor at risus. Est sit amet facilisis magna. Felis eget nunc lobortis mattis aliquam faucibus.
 
-<a href="{{ '/img/fish.jpg' | absolute_url }}">
-  <img src="{{ '/img/fish.jpg' | absolute_url }}"/>
+<a href="{{ '/img/fish.JPG' | absolute_url }}">
+  <img src="{{ '/img/fish.JPG' | absolute_url }}"/>
 </a>
