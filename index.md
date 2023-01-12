@@ -1,13 +1,11 @@
 ---
 layout: page
 show_title: false
-{::comment}
-banner:
-  collection: qatar
-  pid: obj10
-  y: 25%
-  height: '500px'
-{:/comment}
+#banner:
+#  collection: qatar
+#  pid: obj10
+#  y: 25%
+#  height: '500px'
 ---
 
 The catalogue raisonné of Griffin Fisher includes all of the known paintings, sculptures, prints, and other works created by the artist. 
