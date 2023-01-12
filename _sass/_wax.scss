@@ -318,12 +318,12 @@ item pages (iiif + metadata)
 
 */
 .item-view {
-  width:           110%;
+  width:           100%;
   display:         inline-flex;
   flex-wrap:       nowrap;
   justify-content: space-between;
   align-items:     center;
-  margin-left:     -5%;
+//  margin-left:     -5%;
 
   .image-viewer {
     position: relative;
