@@ -10,7 +10,14 @@
       {% assign b = page.banner %}
       {% include parallax_image.html collection=b.collection pid=b.pid y=b.y height=b.height image=b.image %}
     {% endif %}
-
+<!--
+example banner layout in md file
+  banner:
+    collection: qatar
+    pid: obj10
+    y: 25%
+    height: '500px'
+-->
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
         {{ content }}
