@@ -17,3 +17,5 @@ thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj1/manifest.json"
 full: "/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
 ---
+# About the Object
+This is a sample piece of content in order to show how it appears on the site. I want to write enough where the test has to wrap so I can make sure the css looks good. 
