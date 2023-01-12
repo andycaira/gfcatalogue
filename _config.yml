@@ -120,7 +120,13 @@ menu:
         link: '/thanks/'
       - label: 'Terms of Use'
         link: '/terms/'
-#  - label: 'Exhibits'
+  - label: 'Graffiti'
+    link: '/graffiti/'
+    sub:
+      - label: tags
+        link: '/exhibits/tags'
+      - label: stickers
+        link: '/exhibits/stickers'
 #    sub:
 #      - label: 'Inline Parallax Image'
 #        link: '/exhibits/a/'
