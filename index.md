@@ -16,9 +16,6 @@ Each artwork has its own page, or record, which includes the work's principal in
 
 Fisher did not provide titles for the majority of their art works.  Accordingly, the titles listed in this catalogue raisonné follow those provided by the estate's inventory whenever possible. Posthumously titled works are labelled where applicable. 
 
-This project was made using [Wax](https://minicomp.github.io/wiki/#/wax/).
-
-
 ### Browse the Collection
 
 {% include collection_gallery.html facet_by='object_type' collection='qatar' %}

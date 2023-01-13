@@ -132,9 +132,9 @@ menu:
   - label: 'Graffiti'
     link: '/graffiti/'
     sub:
-      - label: tags
+      - label: Tags
         link: '/exhibits/tags'
-      - label: stickers
+      - label: Stickers
         link: '/exhibits/stickers'
 #    sub:
 #      - label: 'Inline Parallax Image'
@@ -154,7 +154,7 @@ footer:
   links:
     - label: 'About'
       link: '/about'
-    - label: 'Credits'
+    - label: 'Thanks'
       link: '/thanks'
     - label: 'Contact'
       link: '/contact'
