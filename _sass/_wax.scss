@@ -121,6 +121,7 @@ content section
   padding-bottom: 5rem;
   margin: auto;
   padding: 1.5rem; //!!!!
+  overflow: auto;
 
   h1, h2, h3, h4, h5, h5 {
     margin-bottom: $less-margin;
@@ -336,6 +337,7 @@ item pages (iiif + metadata)
   justify-content: space-between;
   align-items:     center;
 //  margin-left:     -5%;
+  float: right;
 
   .image-viewer {
     position: relative;
@@ -393,9 +395,11 @@ item pages (iiif + metadata)
 .metadata-block {
   font-family: $body-font;
   max-width: 100%;
-  border: $neutral 1px solid;
-  border-radius: 3px;
+//  border: $neutral 1px solid;
+//  border-radius: 3px;
   padding: $less-margin;
+  float: left;
+
 }
 
 /*
