@@ -87,6 +87,7 @@ header & nav bar
     .nav-item {
       z-index: 1000000;
       background-color: $bg-color;
+      padding-right: 1.5rem;
     }
     .nav-link {
       color: $text-color;
@@ -119,7 +120,7 @@ content section
   padding-top: $margin;
   padding-bottom: 5rem;
   margin: auto;
-  padding: 1rem; //!!!!
+  padding: 1.5rem; //!!!!
 
   h1, h2, h3, h4, h5, h5 {
     margin-bottom: $less-margin;
@@ -271,7 +272,7 @@ content section
   @extend .container;
 
   margin: inherit;
-  max-width: 90%;
+  max-width: 100%;  //!!!! new
 //  width: $max-width;
   overflow: flex-wrap;
 }
@@ -463,7 +464,7 @@ search box
     }
   }
   .wax-gallery {
-    margin: 3rem;
+    margin: 1rem;
     min-height: 30vh;
     display: flex;
     flex-wrap: wrap;
