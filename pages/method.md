@@ -50,9 +50,9 @@ In order to make clear the origin of a title, and to lend consistency to the tit
 
 **Primary Titles** are those that Fisher either inscribed on the work, were written in their personal journals, published online by the artist on their social media or blog during Fisher’s lifetime, or reflect Fisher’s stated preference as the title. We have adhered to the spelling and syntax exactly as it originally appeared. Primary titles appear in italics: *Shrine 0*
 
-**Estate Titles** are those that have been assigned by the artist’s closest contacts, including their life partner, Andy Caira, and their best friend and creative collaborator, Aidan Nolan for archival purposes and the catalogue raisonné. Many of these titles reflect the fact that a work is related to another work, often with a primary or historical title. Descriptive titles appear in roman type within parentheses: (Clustered Suburbs)
+**Estate Titles** are those that have been assigned by the artist’s closest contacts, including their life partner, Andy Caira, and their best friend and creative collaborator, Aidan Nolan for archival purposes and the catalogue raisonné. Many of these titles reflect the fact that a work is related to another work, often with a primary or historical title. Estate titles appear in roman type within parentheses: (Clustered Suburbs)
 
-**Sketch for** is the prefix used for drawings which Fisher made in preparation for a specific painting that was created at a later date. In these instances, descriptive titles appear in roman type within single quotation marks: ‘Sketch for Shrine 0’
+**Sketch for** is the prefix used for drawings which Fisher made in preparation for a specific painting that was created at a later date. In these instances, Estate titles appear in roman type within single quotation marks: Sketch for *Shrine 0* and Sketch for 'The Last Person Forgets You'
 
 **Untitled** when in italics refers to a work whose title was specified by the artist as “Untitled.” It is also used to clarify when an artwork has no given title and will often be accompanied by a descriptive title in parentheses.
 
@@ -66,7 +66,7 @@ Dates reflect the year that a work was completed. Two dates separated by an en d
 
 Our goal has been to describe the media as concisely and consistently as possible. The material description of each work is listed in order of visual dominance, from most to least dominant. The majority of the material descriptions are based on direct visual examination of the works. In some instances when the work was not physically examined, we have included the description of materials based on information from current owners or photographs. In the case where a work is destroyed or the owners cannot be contacted, the material descriptions are based on photos exclusively.
 
-Fisher’s primary paint medium was acrylic paint and the painting’s support either canvas or paper. Occasionally, Fisher would paint on nontraditional support, including mirrors. These art objects are currently catalogued under the “painting” category, as opposed to  “objects.”
+Fisher’s primary paint medium was acrylic paint and the painting’s support either canvas or paper. Occasionally, Fisher would paint on nontraditional support, including mirrors. These art objects are currently catalogued under the “painting” category, as opposed to  “objects.” The categorization between "object" and "painting" is done based on our perception of the artist's intention. Sculpure and functional objects are generally categorized as "objects."
 
 For drawings, they used ink, graphite pencil, crayon, oil pastels, soft pastels,  watersoluable wax pastels, washable markers, permanent markers, acrylic paint marker, watercolor, and acrylic. Color names are not included.
 

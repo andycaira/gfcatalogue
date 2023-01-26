@@ -74,8 +74,13 @@ collections:
       source: 'art.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/art' # path to the directory of images within `_data`
-  exhibits:
-    output: true
+  graffiti:
+    output: true 
+    layout: 'graffiti_item' 
+    metadata:
+      source: 'graffiti.csv' 
+    images:
+      source: 'raw_images/graffiti' 
   qatar: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
@@ -133,9 +138,9 @@ menu:
     link: '/graffiti/'
     sub:
       - label: Tags
-        link: '/exhibits/tags'
+        link: '/graffiti/tags'
       - label: Stickers
-        link: '/exhibits/stickers'
+        link: '/graffiti/stickers'
 #    sub:
 #      - label: 'Inline Parallax Image'
 #        link: '/exhibits/a/'
