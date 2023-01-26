@@ -136,11 +136,11 @@ menu:
         link: '/terms/'
   - label: 'Graffiti'
     link: '/graffiti/'
-    sub:
-      - label: Tags
-        link: '/graffiti/tags'
-      - label: Stickers
-        link: '/graffiti/stickers'
+#    sub:
+#      - label: Tags
+#        link: '/graffiti/tags'
+#      - label: Stickers
+#        link: '/graffiti/stickers'
 #    sub:
 #      - label: 'Inline Parallax Image'
 #        link: '/exhibits/a/'
