@@ -21,7 +21,7 @@
 title:            |
                      Griffin Fisher 
                      Catalogue Raisonné
-description:      'Example Description'
+description:      'PROLE 4 THE HUNGRY'
 url:              'https://andycaira.github.io'
 baseurl:          '/gfcatalogue'
 copyright:        'Griffin Fisher Estate, 2023'
@@ -81,6 +81,13 @@ collections:
       source: 'graffiti.csv' 
     images:
       source: 'raw_images/graffiti' 
+ video:
+    output: true 
+    layout: 'video_item' 
+    metadata:
+      source: 'video.csv' 
+    images:
+      source: 'raw_images/video' 
   qatar: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
@@ -109,8 +116,8 @@ search:
           - label
           - _date
           - provenance
-          - theme
-          - classification
+          - motif
+          - object_type
           - description
           - keywords
 

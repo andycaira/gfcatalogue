@@ -24,6 +24,7 @@ Here you will find.... Compiled/put together by .... etcetera etcetera.
 - Site powered by [jekyll](https://rubygems.org/gems/jekyll) (ruby gem)
 - Catalogue entry pages from data by [wax_tasks](https://rubygems.org/gems/wax_tasks) (ruby gem)
 - IIIF via wax_tasks
+- Video embed code by [Nathan Lam](https://github.com/nathancy/jekyll-embed-video)
 - Client-side dynamic search by wax_tasks and [elasticlunr]() (js)
 - Hosted with github pages
 
