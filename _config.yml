@@ -18,9 +18,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            |
-                     Griffin Fisher 
-                     Catalogue Raisonné
+title:           |
+                  Griffin Fisher 
+                  Catalogue Raisonné
 description:      'PROLE 4 THE HUNGRY'
 url:              'https://andycaira.github.io'
 baseurl:          '/gfcatalogue'
@@ -81,7 +81,7 @@ collections:
       source: 'graffiti.csv' 
     images:
       source: 'raw_images/graffiti' 
- video:
+  video:
     output: true 
     layout: 'video_item' 
     metadata:
