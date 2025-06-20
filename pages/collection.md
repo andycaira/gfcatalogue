@@ -11,4 +11,4 @@ The artworks in this catalogue are organized chronologically.  Each artwork has 
 Each artwork has its own page, or record, which includes the work’s principal information and, when possible, an image that can be enlarged. Many entries include commentaries and supplementary materials, such as related drawings by Fisher, documentary photographs, reference images, and other relevant information.
 
 
-{% include collection_gallery.html collection='qatar' 'graffiti' facet_by='object_type' %}
+{% include collection_gallery.html collection='qatar' , 'graffiti' facet_by='object_type' %}
